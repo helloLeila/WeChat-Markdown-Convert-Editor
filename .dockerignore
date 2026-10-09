@@ -1,0 +1,11 @@
+node_modules
+.git
+.git
+.env.local
+data
+output
+.playwright-cli
+.superpowers
+.agents
+scripts/__pycache__
+*.log
